@@ -1,3 +1,5 @@
 .vscode
 .delete
 .DS_Store
+
+data/
